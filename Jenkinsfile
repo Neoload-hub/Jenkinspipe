@@ -1,4 +1,4 @@
-# Project description file
+// Project description file
 
 project.name=Neoload_19_05
 project.version=8.2
